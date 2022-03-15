@@ -16,12 +16,12 @@
 
 
 ## Conclusions
--Clear weather has more positive impact towards cnt
--Day of the week has very minimal variations across the 7 days
--cnt gradually increases as calendar month increases and after mid year seems to be reduction in cnt
--year on year increase between 2018 and 2019 is increasing trend
--Spring has the lowes demand for cnt and Fall has the highest demand
--Working day and holiday has very minimal variations
+- Clear weather has more positive impact towards cnt
+- Day of the week has very minimal variations across the 7 days
+- cnt gradually increases as calendar month increases and after mid year seems to be reduction in cnt
+- year on year increase between 2018 and 2019 is increasing trend
+- Spring has the lowes demand for cnt and Fall has the highest demand
+- Working day and holiday has very minimal variations
 - Based on the final model, top 3 features contributing significantly towards explaining the demand of the shared bikes are temperature, Weather Light Rain and Snow, year.
 
 ## Technologies Used
